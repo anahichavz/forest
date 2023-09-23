@@ -14,7 +14,7 @@ La creación de una página web es un proceso esencial en el mundo digital actua
 La incorporación de Flexbox agrega una capa adicional de flexibilidad al diseño, facilitando la creación de diseños responsivos que se adaptan a diferentes tamaños de pantalla y dispositivos. Flexbox permite organizar los elementos en un diseño de filas y columnas, lo que simplifica la distribución de contenido y la alineación de elementos.
 
 ## 2. Qué construí
-
+Este proyecto consistió en la creación de una página en la que se pusieran en práctica los conocimientos adquiridos acerca del uso de Flexbox, por lo que se colocó una imagen de fondo haciendp alusión al tema, un head 1 y un head 2 así como un botón, que al presionarlo direcciona a un playlist en Youtube para poder desconectarse por un momento de las actividades que se están realizando.
 
 Las tecnolgías que utilicé son:
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
